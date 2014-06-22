@@ -2,6 +2,10 @@
   "name": "mocha-audit-reporter",
   "description": "The best project ever.",
   "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UsabilityDynamics/node-mocha-audit-reporter.git"
+  },  
   "publishConfig": {
     "registry": "http://rpm.udx.io"
   },
