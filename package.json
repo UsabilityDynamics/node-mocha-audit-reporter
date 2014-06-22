@@ -5,7 +5,7 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:UsabilityDynamics/node-mocha-audit-reporter.git"
-  },  
+  },
   "publishConfig": {
     "registry": "http://rpm.udx.io"
   },
@@ -33,6 +33,7 @@
     "node": ">=0.10.21"
   },
   "dependencies": {
+    "mocha": "^1.20.1",
     "object-emitter": "0.0.5",
     "object-settings": "^0.2.0"
   },
